@@ -1,0 +1,139 @@
+span{
+    color: #21B573;
+}
+#Red{
+    color:red;
+}
+.btn-success{
+    border-radius: 50px;
+    
+}
+
+.top-background{
+    background-color: #F0FFF0;
+}
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.font-size{
+    font-size: 48px;
+}
+
+.card-body{
+    background-color: #F0FFF0;
+    transition: background-color box-shadow 0s step-end 0s; 
+}
+.card-body:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px grey;
+}
+.card-img-top{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:45%;
+    min-height:55%;
+    
+}
+.card-title{
+    text-align: center;
+    margin-top: 5px;
+    color:#282531 ;
+}
+.card-description{
+    text-align: center;
+    font-size: small;
+}
+.card-img-top1{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:90%;
+    min-height:50%;
+    
+}
+.card-body1{
+    background-color: white;
+}
+.card-title1{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.card-text1{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.heading-middle{
+    text-align: center;
+}
+.calendar{
+    height:32px;
+    width: 32px;
+    float: left;
+
+}
+.course-time{
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.course-item2{
+    margin-right: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.testimonial1{
+    text-align: center;
+    font-size: small;
+    margin-left: 5px;
+    padding-right: 15px;
+
+}
+.testimonial-img{
+    margin-left: 10px;
+}
+.footer-bg{
+    background-color:#282531;
+    width: 100%;
+    margin-top: 50px;
+    padding: 50px;
+}
+.container-cards{
+    display: block;
+    margin-left: 30px;
+    margin-right: auto;
+    
+   
+}
+.footer-text{
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    text-align: center;
+    color: white;
+    font-size: small;
+    margin-top: 70px;
+}
+.nav-link{
+    margin-left: 150px;
+}
+.navbar-brand{
+    margin-right: 20px;
+}
+.btn-info{
+    margin-left: 200px ;
+    text-decoration: none;
+    border-radius: 50px;
+    
+}
+.nav-link1{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
